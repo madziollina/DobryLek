@@ -1,4 +1,6 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@include file="../base/header.jsp" %>
+
 
 <h2>Kontakt</h2>
 <hr>

@@ -1,3 +1,4 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@include file="../base/headerLogged.jsp" %>
 
 <p>Are you sure that you want to delete drug "${drug.name}"?</p>
